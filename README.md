@@ -32,5 +32,7 @@ POSTGRES_DATABASE=verceldb
 POSTGRES_URL_NO_SSL=************
 POSTGRES_PRISMA_URL=************
 ```
-8. Run ``` npm install @neondatabase/serverless ```
-9. run npm run dev and go to [localhost:3000](localhost:3000)
+8. Run ``` npm install @neondatabase/serverless ``` 
+> NOTE
+> When running this repo for the first time you can just run ```npm i``` The above command is for installing Neon to a project.
+9. run ```npm run dev``` and go to [localhost:3000](localhost:3000)
